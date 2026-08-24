@@ -1,0 +1,10 @@
+{
+    "evil-insulin": {
+        "name": "evil insulin",
+        "ingredients": [
+            ["toadstool", "insulin", "scorpion-eyes"],
+            [1, 5, 1]
+        ],
+        "value":20
+    }
+}
